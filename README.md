@@ -43,10 +43,13 @@ This combines encryption and steganography in a lightweight, easy-to-understand 
 
 ```bash
 stego-xor-rgb-encoder/
-├── StegnoRGBImplementation.ipynb   # Fully commented notebook
-├── encrypted_output.jpg            # Sample result image
-├── README.md                       # Documentation (you're here)
+├── stego-xor-rgb-encoder.ipynb     # Fully commented notebook
+├── encrypted_output.jpg            # Sample result image (for quick access)
+├── README.md                       # Project documentation (you're here)
 ├── LICENSE                         # MIT License
+├── assets/                         # Visual assets for demo
+│   ├── original.jpg                # Original unmodified image
+│   ├── encrypted_output.jpg        # Encrypted image with hidden text
 ````
 
 ---
