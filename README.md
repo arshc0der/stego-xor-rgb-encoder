@@ -113,6 +113,6 @@ Contributions, bug reports, and enhancements are welcome! Please fork the repo a
 ## 🎓 Author
 
 **arshc0der**
-📚 Final-year student — exploring steganography & lightweight encryption methods
+📚 Exploring steganography & lightweight encryption methods
 
 ---
