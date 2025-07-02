@@ -1,11 +1,23 @@
 
 ---
-
-# 🔐 stego-xor-rgb-encoder
+# 🔐 **stego-xor-rgb-encoder**
 
 > A simple and educational steganography tool for hiding encrypted text inside RGB images using XOR encryption and ASCII encoding.
 
-![License](https://img.shields.io/badge/license-MIT-green.svg) ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg) ![Status](https://img.shields.io/badge/status-educational-lightgrey.svg)
+<p align="left">
+  <img src="https://img.shields.io/badge/status-Beta-yellow.svg" alt="Status Badge"/>
+  <img src="https://img.shields.io/github/license/arshc0der/stego-xor-rgb-encoder?color=green" alt="License Badge"/>
+  <img src="https://img.shields.io/badge/platform-Python-%233776AB.svg" alt="Platform Badge"/>
+  <img src="https://img.shields.io/badge/encryption-XOR-%2370D0A5.svg" alt="Encryption Badge"/>
+  <img src="https://img.shields.io/badge/tech-OpenCV-%23F37626.svg" alt="OpenCV Badge"/>
+  <img src="https://img.shields.io/badge/tech-NumPy-%23013243.svg" alt="NumPy Badge"/>
+  <img src="https://img.shields.io/badge/tech-Matplotlib-%23E91E63.svg" alt="Matplotlib Badge"/>
+  <img src="https://img.shields.io/github/stars/arshc0der/stego-xor-rgb-encoder?style=social" alt="Stars Badge"/>
+  <img src="https://img.shields.io/github/forks/arshc0der/stego-xor-rgb-encoder?style=social" alt="Forks Badge"/>
+</p>
+
+[![Last Commit](https://img.shields.io/github/last-commit/arshc0der/stego-xor-rgb-encoder)](https://github.com/arshc0der/stego-xor-rgb-encoder/commits/main)
+
 
 ---
 
