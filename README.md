@@ -4,7 +4,11 @@
 
 > A simple and educational steganography tool for hiding encrypted text inside RGB images using XOR encryption and ASCII encoding.
 
-<p align="left">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arshc0der/stego-xor-rgb-encoder/refs/heads/main/assets/SXRE.png" alt="Project Cover" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/status-Beta-yellow.svg" alt="Status Badge"/>
   <img src="https://img.shields.io/github/license/arshc0der/stego-xor-rgb-encoder?color=green" alt="License Badge"/>
   <img src="https://img.shields.io/badge/platform-Python-%233776AB.svg" alt="Platform Badge"/>
